@@ -38,9 +38,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2014, text: 'Started my Collage', },
+  { year: 2019, text: 'Graduation year', },
+  { year: 2019, text: 'Triple M - Solar System Designer', },
+  { year: 2021, text: 'Worked as Freelancer', },
+  { year: 2022, text: "Graduation from ITI - MEARN Track" }
 ];
